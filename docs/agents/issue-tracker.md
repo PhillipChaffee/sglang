@@ -2,8 +2,6 @@
 
 Issues and specs for this repo live as GitHub issues. Use the `gh` CLI for all operations.
 
-> **Note:** Issues are currently **disabled** on PhillipChaffee/sglang. Enable them via Settings → General → Features → Issues before any tracker operation succeeds.
-
 ## Conventions
 
 - **Create an issue**: `gh issue create --title "..." --body "..."`. Use a heredoc for multi-line bodies.
